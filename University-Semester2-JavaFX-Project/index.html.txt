@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Student Management System</title>
+</head>
+<body>
+
+  <h1>Student Management System</h1>
+
+  <p>
+    This is a JavaFX desktop application for managing student records.
+  </p>
+
+  <h2>Features</h2>
+
+  <ul>
+    <li>Add new student records</li>
+    <li>View student details</li>
+    <li>Update existing information</li>
+    <li>Delete student records</li>
+    <li>Search for specific students</li>
+  </ul>
+
+  <p>
+    Note: This project is built using JavaFX, so it cannot run directly on GitHub Pages.
+    GitHub Pages only hosts static websites such as HTML, CSS, and JavaScript.
+    The source code is available in this repository.
+  </p>
+
+</body>
+</html>
